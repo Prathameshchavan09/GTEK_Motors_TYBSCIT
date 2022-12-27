@@ -30,54 +30,54 @@
 				
 				
 				<li class="nav-item dropdown" id="myDropdown">
-      <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Products</a>
+      <a class="nav-link dropdown-toggle" href="" data-bs-toggle="dropdown">Products</a>
       
       <ul class="dropdown-menu">
-        <li> <a class="dropdown-item" href="#">AC DC GTEK-motors &raquo; </a>
+        <li> <a class="dropdown-item" href="ACanDCDrives.jsp">AC DC GTEK-motors &raquo; </a>
           <ul class="submenu dropdown-menu">
-                                <li><a class="dropdown-item" href="#" >D.C Drive</a></li>
-                                <li><a class="dropdown-item" href="#" >D.C Drives and Motors</a></li>
-                                <li><a class="dropdown-item" href="#" >A.C V.F.D Drives</a></li>
-                                <li><a class="dropdown-item" href="#" >12 volt D.C Motor</a></li>
-                                <li><a class="dropdown-item" href="#" >A.C Flange motor</a></li>
-                                <li><a class="dropdown-item" href="#" >D.C Power Supply</a></li>
-                                <li><a class="dropdown-item" href="#" >Shund DC motor</a></li>
-                                <li><a class="dropdown-item" href="#" >Arch Trimmer</a></li>
-                                <li><a class="dropdown-item" href="#">Speed Regulators</a></li>
+                                <li><a class="dropdown-item" href="ACanDCDrives.jsp" >D.C Drive</a></li>
+                                <li><a class="dropdown-item" href="ACanDCDrives.jsp" >D.C Drives and Motors</a></li>
+                                <li><a class="dropdown-item" href="ACanDCDrives.jsp" >A.C V.F.D Drives</a></li>
+                                <li><a class="dropdown-item" href="ACanDCDrives.jsp" >12 volt D.C Motor</a></li>
+                                <li><a class="dropdown-item" href="ACanDCDrives.jsp" >A.C Flange motor</a></li>
+                                <li><a class="dropdown-item" href="ACanDCDrives.jsp" >D.C Power Supply</a></li>
+                                <li><a class="dropdown-item" href="ACanDCDrives.jsp" >Shund DC motor</a></li>
+                                <li><a class="dropdown-item" href="ACanDCDrives.jsp" >Arch Trimmer</a></li>
+                                <li><a class="dropdown-item" href="">Speed Regulators</a></li>
            
            </ul>
          </li>
          
          
          
-         <li> <a class="dropdown-item" href="#">Electric motors &raquo; </a>
+         <li> <a class="dropdown-item" href="ElectricMotorProductsImages.jsp">Electric motors &raquo; </a>
           <ul class="submenu dropdown-menu">
-                                 <li><a href="#" >A.C. Flange motors</a></li>
-                            <li><a class="dropdown-item" href="#" >Vertical A.C. Flange motors</a></li>
-                            <li><a class="dropdown-item" href="#" >A.C Flange Mounted Motors</a></li>
-                            <li><a class="dropdown-item" href="#" >A.C and D.C Gear Motors</a></li>
-                            <li><a class="dropdown-item" href="#" >A.C Motors with V.F.D Drivers</a></li>
-                            <li><a class="dropdown-item" href="#" >A.C Gear Motors</a></li>
-                            <li><a class="dropdown-item" href="#" >D.C Motors</a></li>
-                            <li><a class="dropdown-item" href="#" >Inline Motors</a></li>
-                            <li><a class="dropdown-item" href="#" >Shund Motors</a></li>
-                            <li><a class="dropdown-item" href="#" >Helical Worm Geared Motors</a></li>
-                            <li><a class="dropdown-item" href="#" >D.C Geared Motors</a></li>
+                            <li><a class="dropdown-item" href="ElectricMotorProductsImages.jsp" >A.C. Flange motors</a></li>
+                            <li><a class="dropdown-item" href="ElectricMotorProductsImages.jsp" >Vertical A.C. Flange motors</a></li>
+                            <li><a class="dropdown-item" href="ElectricMotorProductsImages.jsp" >A.C Flange Mounted Motors</a></li>
+                            <li><a class="dropdown-item" href="ElectricMotorProductsImages.jsp" >A.C and D.C Gear Motors</a></li>
+                            <li><a class="dropdown-item" href="ElectricMotorProductsImages.jsp" >A.C Motors with V.F.D Drivers</a></li>
+                            <li><a class="dropdown-item" href="ElectricMotorProductsImages.jsp" >A.C Gear Motors</a></li>
+                            <li><a class="dropdown-item" href="ElectricMotorProductsImages.jsp" >D.C Motors</a></li>
+                            <li><a class="dropdown-item" href="ElectricMotorProductsImages.jsp" >Inline Motors</a></li>
+                            <li><a class="dropdown-item" href="ElectricMotorProductsImages.jsp" >Shund Motors</a></li>
+                            <li><a class="dropdown-item" href="ElectricMotorProductsImages.jsp" >Helical Worm Geared Motors</a></li>
+                            <li><a class="dropdown-item" href="ElectricMotorProductsImages.jsp" >D.C Geared Motors</a></li>
            </ul>
          </li>
          
          
          
-        <li> <a class="dropdown-item" href="#">Laboratory instruments &raquo; </a>
+        <li> <a class="dropdown-item" href="LaboratoryInstrumentProduct.jsp">Laboratory instruments &raquo; </a>
           <ul class="submenu dropdown-menu">
-                                 <li><a href="#" >A.C. Flange motors</a></li>
-                             <li><a href="#" >Bacteriological Incubator</a></li>
-                                <li><a class="dropdown-item" href="#" >Constant Temperature Water Bath</a></li>
-                                <li><a class="dropdown-item" href="#" >Hot Air Oven G.M.P Model</a></li>
-                                <li><a class="dropdown-item" href="#" >Muffle Furnace</a></li>
-                                <li><a class="dropdown-item" href="#" >Water Bath</a></li>
-                                <li><a class="dropdown-item" href="#" >B.O.D Incubators</a></li>
-                                <li><a class="dropdown-item" href="#" >Hot Air Oven</a></li>
+                                <li><a class="dropdown-item" href="LaboratoryInstrumentProduct.jsp" >A.C. Flange motors</a></li>
+                                <li><a class="dropdown-item" href="LaboratoryInstrumentProduct.jsp" >Bacteriological Incubator</a></li>
+                                <li><a class="dropdown-item" href="LaboratoryInstrumentProduct.jsp" >Constant Temperature Water Bath</a></li>
+                                <li><a class="dropdown-item" href="LaboratoryInstrumentProduct.jsp" >Hot Air Oven G.M.P Model</a></li>
+                                <li><a class="dropdown-item" href="LaboratoryInstrumentProduct.jsp" >Muffle Furnace</a></li>
+                                <li><a class="dropdown-item" href="LaboratoryInstrumentProduct.jsp" >Water Bath</a></li>
+                                <li><a class="dropdown-item" href="LaboratoryInstrumentProduct.jsp" >B.O.D Incubators</a></li>
+                                <li><a class="dropdown-item" href="LaboratoryInstrumentProduct.jsp" >Hot Air Oven</a></li>
            </ul>
          </li>
          
@@ -86,16 +86,16 @@
          
          
          
-           <li> <a class="dropdown-item" href="#">Dental Lab Machine &raquo; </a>
+           <li> <a class="dropdown-item" href="DentalLabMachines.jsp">Dental Lab Machine &raquo; </a>
           <ul class="submenu dropdown-menu">
-                                <li><a class="dropdown-item" href="#" >A.C. Flange motors</a></li>
-                                <li><a class="dropdown-item" href="#" >Ultrasonic Cleaner</a></li>
-                                <li><a class="dropdown-item" href="#" >Digital Ultrasonic Cleaner</a></li>
-                                <li><a class="dropdown-item" href="#" >Steam Cleaner</a></li>
-                                <li><a class="dropdown-item" href="#" >Vaccum Mixer</a></li>
-                                <li><a class="dropdown-item" href="#" >Ceramic Furnace</a></li>
-                                <li><a class="dropdown-item" href="#" >Trim Grauter Machine</a></li>
-                                <li><a class="dropdown-item" href="#" >Oil free Compressor</a></li>
+                                <li><a class="dropdown-item" href="DentalLabMachines.jsp" >A.C. Flange motors</a></li>
+                                <li><a class="dropdown-item" href="DentalLabMachines.jsp" >Ultrasonic Cleaner</a></li>
+                                <li><a class="dropdown-item" href="DentalLabMachines.jsp" >Digital Ultrasonic Cleaner</a></li>
+                                <li><a class="dropdown-item" href="DentalLabMachines.jsp" >Steam Cleaner</a></li>
+                                <li><a class="dropdown-item" href="DentalLabMachines.jsp" >Vaccum Mixer</a></li>
+                                <li><a class="dropdown-item" href="DentalLabMachines.jsp" >Ceramic Furnace</a></li>
+                                <li><a class="dropdown-item" href="DentalLabMachines.jsp" >Trim Grauter Machine</a></li>
+                                <li><a class="dropdown-item" href="DentalLabMachines.jsp" >Oil free Compressor</a></li>
            </ul>
          </li>
          
