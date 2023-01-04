@@ -6,21 +6,28 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Products Pages</title>
 <%@ include file="all_components/allcss.jsp"%>
+
 </head>
-<body style=" background-color: hsla(89, 43%, 51%, 0.3);">
+<body style="background-color: hsla(89, 43%, 51%, 0.3);">
+
+	<%@ include file="all_components/navbar.jsp"%>
 
 
-
-	 <h1 class="room">
-		<center>Laboratory Instruments Page</center>
-	</h1>
+	<div class="ProductTitle">
+		<h1>
+			<center>Laboratory Instruments Page</center>
+			
+		</h1>
+	</div>
 	<br>
 	<br>
 
 
 	<!--First layer-->
-	<div class="card-group px-4 gap-3" style="margin-bottom: 30px !important;">
-		<div class="card">
+
+	<div class="card-group px-4 gap-3" style="margin-bottom: 20px;">
+
+		<div class="card" style="width: 18rem;">
 			<img
 				src="HomeImages/LaboratoryProductImages/BacteriologicalIncubator.png"
 				class="card-img-top" alt="image1">
@@ -39,10 +46,7 @@
 				</p>
 			</div>
 		</div>
-		<br>
-		<br>
-		<br>
-		<br>
+		<br> <br> <br> <br>
 		<div class="card" style="border: 1px solid grey;">
 			<img
 				src="HomeImages/LaboratoryProductImages/ConstantTemperatureWaterBath.jpg"
@@ -85,8 +89,8 @@
 
 
 	<!--Second layer-->
-	<div class="card-group px-4 gap-3" style="margin-bottom: 20px !important;">
-		
+	<div class="card-group px-4 gap-3" style="margin-bottom: 20px;">
+
 		<div class="card" style="border: 2px solid grey;">
 			<img
 				src="HomeImages/LaboratoryProductImages/HumidityChamberG.M.PModel.jpg"
@@ -105,10 +109,7 @@
 				</p>
 			</div>
 		</div>
-		<br>
-		<br>
-		<br>
-		<br>
+		<br> <br> <br> <br>
 		<div class="card" style="border: 2px solid grey;">
 			<img
 				src="HomeImages/LaboratoryProductImages/LaminarAirflowCabinets.jpg"
@@ -149,8 +150,8 @@
 	</div>
 
 	<!--Third layer-->
-<div class="card-group px-4 gap-3" style="margin-bottom: 20px !important;">
-		
+	<div class="card-group px-4 gap-3" style="margin-bottom: 20px;">
+
 		<div class="card" style="border: 2px solid grey;">
 			<img
 				src="HomeImages/LaboratoryProductImages/OrbitalShakingIncubatorCooling.png"
@@ -209,7 +210,7 @@
 
 
 	<!--Four layer-->
-	<div class="card-group px-4 gap-3" style="margin-bottom: 20px !important;">
+	<div class="card-group px-4 gap-3" style="margin-bottom: 20px;">
 		<div class="card" style="border: 2px solid grey;">
 			<img src="HomeImages/LaboratoryProductImages/HotAirOven.jpg"
 				class="cards-img-bottom" alt="image1">
@@ -268,7 +269,7 @@
 
 
 	<!--Fifth layer-->
-<div class="card-group px-4 gap-3" style="margin-bottom: 20px !important;">
+	<div class="card-group px-4 gap-3" style="margin-bottom: 20px;">
 		<div class="card" style="border: 2px solid grey;">
 			<img src="HomeImages/LaboratoryProductImages/LaboratoryStirrer.png"
 				class="cards-img-bottom" alt="image1">
@@ -326,8 +327,8 @@
 
 
 	<!--Sixth layer-->
-	<div class="card-group px-4 gap-3" style="margin-bottom: 20px !important;">
-		<div class="card" style="border: 2px solid grey;"> 
+	<div class="card-group px-4 gap-3" style="margin-bottom: 20px;">
+		<div class="card" style="border: 2px solid grey;">
 			<img src="HomeImages/LaboratoryProductImages/SandBlastingMachine.png"
 				class="cards-img-bottom" alt="image1">
 			<div class="card-body">
@@ -387,7 +388,7 @@
 
 
 	<!--Seventh layer-->
-	<div class="card-group px-4 gap-3" style="margin-bottom: 20px !important;">
+	<div class="card-group px-4 gap-3" style="margin-bottom: 20px;">
 		<div class="card" style="border: 2px solid grey;">
 			<img src="HomeImages/LaboratoryProductImages/Mufful.png"
 				class="cards-img-bottom" alt="image1">
@@ -448,7 +449,7 @@
 
 
 	<!--Eight layer-->
-	<div class="card-group px-4 gap-3" style="margin-bottom: 20px !important;">
+	<div class="card-group px-4 gap-3" style="margin-bottom: 20px;">
 		<div class="card" style="border: 2px solid grey;">
 			<img src="HomeImages/LaboratoryProductImages/PmdcLabStirrer.png"
 				class="cards-img-bottom" alt="image1">

@@ -7,7 +7,21 @@
 <title>Home Page</title>
 <%@ include file="all_components/allcss.jsp"%>
 </head>
-<body>
+<body class="AboutUsBody">
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/63b591c9c2f1ac1e202ba8cd/1gluk2vod';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
 	<%@ include file="all_components/navbar.jsp"%>
 
 	<div id="carouselExampleCaptions" class="carousel slide"
@@ -88,22 +102,24 @@
 
 				<div class="col-lg-8  col-12 ps-lg-5 mt-md-5">
 					<div class="about-text">
-						<h2 style="text-align:center;margin-bottom:20px;">
+						<h2 style="text-align: center; margin-bottom: 20px;">
 							We Provide Best Quality <br>Service ever
 						</h2>
-						<p style="font-size:18px;">Quality is the foremost thing that customers confirm before
-							purchasing products. And it is correct to confirm because
-							products, especially in the case of electrical items, automation
-							products and lab instruments, must perform reliable operation and
-							should be a great value for their money. Keeping the desires of
-							customers in mind, we make a hi-end range of Ac/Dc Motor, Dental
-							Lab Instruments, Helical Worm Geared Motor, Helical Gear Boxes,
-							and various other products. We confirm our offerings to the
-							highest standards of quality by checking each and every product
-							manually. From finish, structure to design and operation, each
-							and every product is tested on various grounds.</p>
+						<p style="font-size: 18px;">Quality is the foremost thing that
+							customers confirm before purchasing products. And it is correct
+							to confirm because products, especially in the case of electrical
+							items, automation products and lab instruments, must perform
+							reliable operation and should be a great value for their money.
+							Keeping the desires of customers in mind, we make a hi-end range
+							of Ac/Dc Motor, Dental Lab Instruments, Helical Worm Geared
+							Motor, Helical Gear Boxes, and various other products. We confirm
+							our offerings to the highest standards of quality by checking
+							each and every product manually. From finish, structure to design
+							and operation, each and every product is tested on various
+							grounds.</p>
 
-						<a href="#" class="btn btn-warning" class="text-center">Learn more</a>
+						<a href="#" class="btn btn-warning" class="text-center">Learn
+							more</a>
 					</div>
 				</div>
 			</div>
@@ -120,96 +136,85 @@
 				<div class="col-md-12">
 
 					<div class="section-header text-center pb-5">
-						<h2>Our Services</h2>
 
-						<p>products and lab instruments, must perform reliable
-							operation and should be a great value for their money. Keeping
-							the desires of customers in mind, we make a hi-end range of Ac/Dc
-							Motor, Dental Lab Instruments, Helical Worm Geared Motor, Helical
-							Gear Boxes, and various other products. We con</p>
+						<div class="demoo">
+							
+								<h2>Our Services</h2>
 
+								<p>products and lab instruments, must perform reliable
+									operation and should be a great value for their money. Keeping
+									the desires of customers in mind, we make a hi-end range of
+									Ac/Dc Motor, Dental Lab Instruments, Helical Worm Geared Motor,
+
+									Helical Gear Boxes, and various other products. We con</p>
+
+							
+						</div>
 
 
 					</div>
 				</div>
 			</div>
+		
 
 
-			<div class="row">
-				<div class="col-12 col-md-12 col-lg-4">
-
-					<div class="card text-white text-center bg-dark pb-2">
-						<div class="card-body">
-							<i class="fa fa-clone" aria-hidden="true"></i>
-							<h3 class="card-title">Best Quality</h3>
-							<p class="lead">ucts and lab instruments, must perform
-								reliable operation and should be a great value for their money.
-								Keeping the desires of customers in mind, we make a hi-end range
-								of Ac/Dc Motor, Dental Lab Instruments, Helical Worm Geared
-								Motor, Helical Gear Boxes, and v</p>
-
-							<button class="btn btn-warning text-dark">Read More</button>
-
-						</div>
-
-					</div>
-				</div>
-
-				<div class="col-12 col-md-12 col-lg-4">
-
-					<div class="card text-white text-center bg-dark pb-2">
-						<div class="card-body">
-							<i class="fa fa-clone" aria-hidden="true"></i>
-							<h3 class="card-title">Best Quality</h3>
-							<p class="lead">ucts and lab instruments, must perform
-								reliable operation and should be a great value for their money.
-								Keeping the desires of customers in mind, we make a hi-end range
-								of Ac/Dc Motor, Dental Lab Instruments, Helical Worm Geared
-								Motor, Helical Gear Boxes, and v</p>
-
-							<button class="btn btn-warning text-dark">Read More</button>
-
-						</div>
-
-					</div>
+		<!--Features pages Start here-->
 
 
+		<div class="card-group">
+			<div class="card">
+				<img class="card-img-top" src="HomeImages/features1.jfif"
+					alt="Card image cap">
+				<div class="card-body">
+					<h5 class="card-title">Experienced Staff</h5>
+					<p class="card-text">Lorem Ipsum is simply dummy text of the
+						printing and typesetting industry. Lorem Ipsum has been the
+						industry's standard dummy text ever since the 1500s, when an
+						unknown printer took a galley of type and scrambled it to make a
+						type specimen book.</p>
 
-				</div>
-
-
-
-				<div class="col-12 col-md-12 col-lg-4">
-
-					<div class="card text-white text-center bg-dark pb-2">
-						<div class="card-body">
-							<i class="fa fa-clone" aria-hidden="true"></i>
-							<h3 class="card-title">Best Quality</h3>
-							<p class="lead">ucts and lab instruments, must perform
-								reliable operation and should be a great value for their money.
-								Keeping the desires of customers in mind, we make a hi-end range
-								of Ac/Dc Motor, Dental Lab Instruments, Helical Worm Geared
-								Motor, Helical Gear Boxes, and v</p>
-
-							<button class="btn btn-warning text-dark">Read More</button>
-
-						</div>
-
-					</div>
-
-
-
-				</div>
-
- 
+					<a class="btn btn-success btn-lg" href="newjsp.jsp" role="button">Read
+						more</a>
 				</div>
 			</div>
-			
-			
+			<div class="card">
+				<img class="card-img-top" src="HomeImages/features2.jpeg"
+					alt="Card image cap">
+				<div class="card-body">
+					<h5 class="card-title">Trustworthy Partner</h5>
+					<p class="card-text">Lorem Ipsum is simply dummy text of the
+						printing and typesetting industry. Lorem Ipsum has been the
+						industry's standard dummy text ever since the 1500s, when an
+						unknown printer took a galley of type and scrambled it to make a
+						type specimen book.</p>
+
+					<a class="btn btn-success btn-lg" href="newjsp.jsp" role="button">Read
+						more</a>
+				</div>
+			</div>
+			<div class="card">
+				<img class="card-img-top" src="HomeImages/features3.jpeg"
+					alt="Card image cap">
+				<div class="card-body">
+					<h5 class="card-title">Customer Support</h5>
+					<p class="card-text">Lorem Ipsum is simply dummy text of the
+						printing and typesetting industry. Lorem Ipsum has been the
+						industry's standard dummy text ever since the 1500s, when an
+						unknown printer took a galley of type and scrambled it to make a
+						type specimen book.</p>
+
+					<a class="btn btn-success btn-lg" href="newjsp.jsp" role="button">Read
+						more</a>
+				</div>
+			</div>
+		</div>
+
+</div>
+		<!--Features pages Start here-->
 	</section>
 
 
-<%@ include file="all_components/footer.jsp"%>
+	<%@ include file="all_components/footer.jsp"%>
 
 
 </body>
